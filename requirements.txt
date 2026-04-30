@@ -1,0 +1,12 @@
+finta
+keras
+millify
+numpy
+pandas
+plotly
+scikit_learn
+streamlit
+ta
+tensorflow
+yfinance
+st-annotated-text
